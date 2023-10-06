@@ -49,7 +49,7 @@ font-size: 18px;}
   }
   body{ background-image:
     url("./bg.jpg");
-    line-height: 22px;
+    line-height: 21.4px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -96,7 +96,7 @@ font-size: 18px;}
 
 .container{width: 100%;
     
-   line-height: 21px;
+   line-height: 21.4px;
    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 display: flex;
 border: 0px solid;
@@ -109,7 +109,7 @@ margin-top: 48px;
 .links_and_images a{display: block;
 
 color: #c8e3fd;
-font-size: 16px;}
+font-size: 15px;}
 .links_and_images img{
 height: auto;
 margin-bottom: 20px;}
@@ -117,7 +117,7 @@ margin-bottom: 20px;}
   
     margin-right: 30px;
     padding-left: 0px;
-    font-size: 16px;
+    font-size: 15px;
     
 }
 .link{border-top: 2px solid ;

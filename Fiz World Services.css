@@ -65,7 +65,7 @@ margin-top: 25px;
 
   body{ background-image:
     url("./bg.jpg");
-    line-height: 22px;
+    line-height: 21.4px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -119,7 +119,7 @@ background-color:#10223a;}
   .image_description1{margin-top: 16px;
     text-align: left;
     color:white;
-    font-size: 16px;
+    font-size: 15px;
    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   padding-top: 10px;}
    .image_description1 a{color: #b4daf1;
