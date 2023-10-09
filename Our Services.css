@@ -46,7 +46,7 @@ nav ul li a{text-decoration: none;
           font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
           font-weight: lighter;
         }
-nav ul li q::before{content: "|";
+nav ul li span::before{content: "|";
 margin-right: 12px;
 color: #fffffd;
 font-size: 18px;}
@@ -184,7 +184,7 @@ padding: 5px;}
   }
   footer p{margin: 2px;
   color: #cadeff;}
- footer q::after{content:"|";
+ footer span::after{content:"|";
   
   padding-left: 5px;
 
