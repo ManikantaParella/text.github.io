@@ -46,7 +46,7 @@ nav ul li a{text-decoration: none;
             font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
             font-weight: lighter;
           }
-nav ul li q::before{content: "|";
+nav ul li span::before{content: "|";
 margin-right: 12px;
 color: #fffffd;
 font-size: 18px;}
@@ -74,13 +74,13 @@ font-size: 40px;
 margin-bottom: 25px;
 margin-top: 25px;
 }
-html{background-image:
+body{background-image:
   url("./bg.jpg");
   
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;}
-  body{ 
+  .container_page{ 
     line-height: 22px;
    
     width: 960px;
@@ -163,11 +163,11 @@ background-color:#10223a;}
   }
   footer p{margin: 2px;
   color: #cadeff;}
- footer q::after{content:"|";
+ footer span::after{content:"|";
   
   padding-left: 5px;
 
-}footer q::before{content: "";}
+}/*footer q::before{content: "";}*/
   footer a{color: #e5eaed;
   }
  
@@ -219,8 +219,8 @@ nav a:hover,nav a:active,nav a:focus{color: white;
   background-color:#496781;
 padding-top: 6px;
 padding-bottom: 6px;
-padding-left: 5px;
-padding-right: 5px;
+/*padding-left: 5px;
+padding-right: 5px;*/
 margin-left: 0px;
 }
   
