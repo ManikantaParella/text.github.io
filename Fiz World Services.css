@@ -93,7 +93,7 @@ body{background-image:
     
       }
       body,html{margin: 0;
-      height: 100%;}
+      }
 .row{ border: 0.5px solid;
   border-color: #15253D;;
 
@@ -207,7 +207,7 @@ background-color:#10223a;}
   }
   .request{
   padding-bottom: 25px;}
-  body,html{height: 100%;
+  body,html{
   margin: auto;
 
 }
